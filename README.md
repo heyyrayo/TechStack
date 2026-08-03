@@ -1,1 +1,1 @@
-Hello , This Project Will be the one which will provide you all the API keys in a Legal so you can use then to get free tokens for any AI model
+Hello , This Project Will be the one which will provide you all technologies needed to pursue any Job Domain in future , With This You'll know how exaclty the Technologies you'll need to learn to build your carrer
